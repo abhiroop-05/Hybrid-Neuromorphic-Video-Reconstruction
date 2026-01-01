@@ -69,7 +69,7 @@ These results demonstrate **stable temporal performance** and consistent spiking
 ## 🖼️ Qualitative Results
 
 ### Original vs Reconstructed Frame
-![Original vs Reconstructed](images/original_vs_reconstructed.jpg)
+![Original vs Reconstructed](images/814828a7-c271-42a5-8da6-ff78eaa1fab7.jpg)
 
 The reconstructed frame preserves:
 - Global structure
@@ -135,22 +135,6 @@ A detailed explanation of:
 
 📄 **Report:**  
 `report/Hybrid_Neuromorphic_Video_Reconstruction.pdf`
-
----
-
-## 🎓 Authors
-
-- **Abhiroop Pamula** (AM.EN.U4EAC22003)  
-- Aswin B Ajay  
-- Gouri S  
-- Viswajith K  
-
-**Guides:**  
-- Dr. Shyam Diwakar  
-- Dr. Asha Vijayan  
-
-Amrita School of Engineering, Amritapuri  
-December 2025
 
 ---
 
