@@ -43,7 +43,7 @@ This project proposes a **Hybrid Neuromorphic Architecture** that:
 ## 📊 Reconstruction Analysis
 
 ### Temporal Metrics Over Video Sequence
-![PSNR SSIM Spike Activity](images/video_reconstruction_analysis.png)
+![PSNR SSIM Spike Activity](images/f0a63532-16ec-41d8-85e1-20f4fff7568c.png)
 
 **Statistics (591 frames):**
 - **Mean PSNR:** 15.47 dB  
