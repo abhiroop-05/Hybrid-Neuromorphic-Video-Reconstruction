@@ -1,5 +1,5 @@
 
-# Hybrid Neuromorphic Video Reconstruction (Hybrid-Large-v2)
+# Hybrid Neuromorphic Video Reconstruction
 
 A **hybrid spike–analog deep learning framework** for **event-to-video reconstruction**, combining **Spiking Neural Networks (SNNs)** with **analog convolutional and ConvLSTM-based decoding** to achieve **temporally stable, high-fidelity video reconstruction** at **near real-time speed**.
 
