@@ -57,7 +57,7 @@ These results demonstrate **stable temporal performance** and consistent spiking
 ## 📈 Training Dynamics
 
 ### Training Loss, Validation PSNR & Memory Usage
-![Training Curves](images/training_curves_hybrid_large_v2.png)
+![Training Curves](images/training_curves_hybrid_large-v2.png)
 
 **Observations:**
 - Smooth loss convergence within 25 epochs
